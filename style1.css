@@ -1,0 +1,65 @@
+#bedroom {
+    border-radius: 100px 100px 100px;
+    width: 300px;
+    background-color: white;
+    color: black;
+}
+
+#ACANDTV {
+    border-radius: 100px 100px 100px;
+    width: 300px;
+    background-color: white;
+    color: black;
+}
+
+#Desk {
+    border-radius: 100px 100px 100px;
+    width: 300px;
+    background-color: white;
+    color: black;
+}
+
+#bottle {
+    border-radius: 100px 100px 100px;
+    width: 300px;
+    background-color: white;
+    color: black;
+}
+
+#fruitandbasket {
+    border-radius: 100px 100px 100px;
+    width: 300px;
+    background-color: white;
+    color: black;
+}
+body{
+    background: linear-gradient(violet 10%,pink 80%);
+}
+canvas{
+    margin-top: 50px;
+}
+#back1{
+    float: right;
+    margin-right: 50px;
+background-color: aqua;
+}
+#back2{
+    float: right;
+    margin-right: 50px;
+background-color: aqua;
+}
+#back3{
+    float: right;
+    margin-right: 50px;
+background-color: aqua;
+}
+#back4{
+    float: right;
+    margin-right: 50px;
+background-color: aqua;
+}
+#back5{
+    float: right;
+    margin-right: 50px;
+background-color: aqua;
+}
